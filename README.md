@@ -1,2 +1,2 @@
-# RMarkdown_reports
+# RMarkdown reports
 A collection of RMarkdown reports.
